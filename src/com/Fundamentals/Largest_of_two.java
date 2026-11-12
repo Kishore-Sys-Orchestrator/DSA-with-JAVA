@@ -1,4 +1,4 @@
-package com.kishore;
+package com.Fundamentals;
 import java.util.Scanner;
 public class Largest_of_two {
     public static void main(String[] args){

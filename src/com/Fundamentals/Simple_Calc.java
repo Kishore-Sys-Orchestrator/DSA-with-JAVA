@@ -1,4 +1,4 @@
-package com.kishore;
+package com.Fundamentals;
 
 import java.util.Scanner;
 
