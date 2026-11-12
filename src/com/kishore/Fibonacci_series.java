@@ -17,16 +17,18 @@ public class Fibonacci_series {
             System.out.println(a);
         }
         else if(n >= 2){
-            System.out.println(a);
-            System.out.println(b);
+            //System.out.println(a);
+            //System.out.println(b);
             int count = 2;
+            int c = 0;
             while(count <= n){
-                int c = a + b;
+                c = a + b;
                 a = b;
                 b = c;
-                System.out.println(c);
+                //System.out.println(c);  //This will print the series of numbers
                 count++;
             }
+            System.out.println(c); //This will print the number at the Nth term given
         }
     }
 }
