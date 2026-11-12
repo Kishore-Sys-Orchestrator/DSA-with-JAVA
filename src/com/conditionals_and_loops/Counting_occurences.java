@@ -1,7 +1,5 @@
 package com.conditionals_and_loops;
 
-import jdk.swing.interop.SwingInterOpUtils;
-
 import java.util.Scanner;
 
 public class Counting_occurences {
